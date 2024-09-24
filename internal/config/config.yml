@@ -1,6 +1,11 @@
-grpc:
-  port: 44044
+server:
+  host: "127.0.0.1" # Local: 127.0.0.1, Docker: 0.0.0.0
+  port: "44044"
   timeout: 5s
 
 logger:
   logLevel: "debug"
+
+mail_service:
+  username: "@gmail.com"
+  password: ""

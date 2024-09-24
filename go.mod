@@ -3,7 +3,7 @@ module github.com/Magic-Kot/store-notification-service
 go 1.23.0
 
 require (
-	github.com/Magic-Kot/store-protos v0.0.2
+	github.com/Magic-Kot/store-protos v0.0.3
 	github.com/ilyakaznacheev/cleanenv v1.5.0
 	github.com/pkg/errors v0.9.1
 	github.com/rs/zerolog v1.33.0

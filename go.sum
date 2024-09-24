@@ -3,6 +3,8 @@ github.com/BurntSushi/toml v1.4.0 h1:kuoIxZQy2WRRk1pttg9asf+WVv6tWQuBNVmK8+nqPr0
 github.com/BurntSushi/toml v1.4.0/go.mod h1:ukJfTF/6rtPPRCnwkur4qwRxa8vTRFBF0uk2lLoLwho=
 github.com/Magic-Kot/store-protos v0.0.2 h1:7xxTL/WDAdA9WjLP4oIqDO2WlUya74ZoJDb22WpWHTA=
 github.com/Magic-Kot/store-protos v0.0.2/go.mod h1:1A3MBO+WQ8jXKKLHJ9hlN57fOCUytUhFek2nKt5f7TM=
+github.com/Magic-Kot/store-protos v0.0.3 h1:k4CAovy3Ii9CTbtCJ66PO0/71JN1VAYeb2JmWWaqBbA=
+github.com/Magic-Kot/store-protos v0.0.3/go.mod h1:1A3MBO+WQ8jXKKLHJ9hlN57fOCUytUhFek2nKt5f7TM=
 github.com/coreos/go-systemd/v22 v22.5.0/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSVTIJ3seZv2GcEnc=
 github.com/godbus/dbus/v5 v5.0.4/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
 github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
